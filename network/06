@@ -1,0 +1,2 @@
+Pour trouver le DNS utilise:
+cat /etc/resolv.conf

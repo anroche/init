@@ -1,1 +1,1 @@
-ifconfig -a | sed -n 18p
+ifconfig en1 | grep ether
